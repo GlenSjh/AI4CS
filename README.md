@@ -10,7 +10,7 @@ Relevant paper of planning in the field of AI4CS
 | 4 | 2018.05 | **Planning chemical syntheses with deep neural networks and symbolic AI** | Nature | [link](https://www.nature.com/articles/nature25978)  |
 | 5 | 2020.10 | **Computational planning of the synthesis of complex natural products** | Nature | [link](https://www.nature.com/articles/s41586-020-2855-y)  |
 | 6 | 2022.01 | **Chemformer: a pre-trained transformer for computational chemistry** | Machine Learning | [link](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb)  |
-| 7 | 2023.09 | **PlanBench An Extensible Benchmark for Evaluating** | NIPS 2023 | [link](https://openreview.net/pdf?id=YXogl4uQUO)  |
+| 7 | 2023.09 | **PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change** | NIPS 2023 | [link](https://openreview.net/pdf?id=YXogl4uQUO)  |
 | 8 | 2023.10 | **Re-evaluating Retrosynthesis Algorithms with Syntheseus** | NIPS 2023 | [link](https://openreview.net/forum?id=W5U18rgtpg)  |
 | 9 | 2023.12 | **Autonomous chemical research with large language models** | Nature | [link](https://www.nature.com/articles/s41586-023-06792-0)  |
 | 10 | 2024.01 | **Retro-fallback: retrosynthetic planning in an uncertain world** | ICLR 2024 | [link](https://openreview.net/forum?id=dl0u4ODCuW)  |
