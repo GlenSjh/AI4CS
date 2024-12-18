@@ -14,7 +14,7 @@ Relevant paper in the field of AI4CS
 | 9 | 2023.12 | **Autonomous chemical research with large language models** | NIPS 2024 | [link](https://www.nature.com/articles/s41586-023-06792-0)  |
 | 10 | 2024.01 | **Retro-fallback: retrosynthetic planning in an uncertain world** | ICLR 2024 | [link](https://openreview.net/forum?id=dl0u4ODCuW)  |
 | 11 | 2024.02 | **Leveraging large language models for predictive chemistry** | Nature Machine Intelligence | [link](https://www.nature.com/articles/s42256-023-00788-1?fromPaywallRec=false)  |
-| 12 | 2024.03 | **Efficient retrosynthetic planning with MCTS exploration enhanced A* search** | Nature Communications Chemistry | [link](https://www.nature.com/articles/s42004-024-01133-2)  |
+| 12 | 2024.03 | **Efficient retrosynthetic planning with MCTS exploration enhanced A\* search** | Nature Communications Chemistry | [link](https://www.nature.com/articles/s42004-024-01133-2)  |
 | 13 | 2024.05 | **Augmenting large language models with chemistry tools** | Nature | [link](https://www.nature.com/articles/s42256-024-00832-8)  |
 | 14 | 2024.07 | **Retrosynthesis prediction with an iterative string editing model** | Nature Communications | [link](https://www.nature.com/articles/s41467-024-50617-1)  |
 | 15 | 2024.09 | **LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench** | NIPS 2024 | [link](https://openreview.net/forum?id=Gcr1Lx4Koz)  |
