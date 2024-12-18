@@ -1,6 +1,7 @@
 # AI4CS
-Relevant paper in the field of AI4CS
+Relevant paper of planning in the field of AI4CS
 
+# Planning
 |Index | Time | Title                                                        |  Publication  |                            Paper                             |
 | :--: | :--: | ------------------------------------------------------------ | :-----------: | :----------------------------------------------------------: |
 | 1 | 2013.12 | **Towards a Planning-Based Approach to the Automated Design of Chemical Processes** | AIBP@AI* IA 2013 | [link](https://ceur-ws.org/Vol-1101/paper3.pdf)  |
