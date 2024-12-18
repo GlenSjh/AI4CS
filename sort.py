@@ -1,6 +1,8 @@
 import pandas as pd
 import re
 
+# Sort markdown table of Time columns in ascending order
+
 # Input Markdown table as a string
 markdown_table = """
 |Index | Time | Title                                                        |  Publication  |                            Paper                             |
