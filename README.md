@@ -2,6 +2,8 @@
 Relevant paper of planning in the field of AI4CS
 
 # Planning
+
+## Chemical Synthesis Applications
 |Index | Time | Title                                                        |  Publication  |                            Paper                             |
 | :--: | :--: | ------------------------------------------------------------ | :-----------: | :----------------------------------------------------------: |
 | 1 | 2013.12 | **Towards a Planning-Based Approach to the Automated Design of Chemical Processes** | AIBP@AI* IA 2013 | [link](https://ceur-ws.org/Vol-1101/paper3.pdf)  |
@@ -18,6 +20,12 @@ Relevant paper of planning in the field of AI4CS
 | 12 | 2024.05 | **Augmenting large language models with chemistry tools** | Nature | [link](https://www.nature.com/articles/s42256-024-00832-8)  |
 | 13 | 2024.07 | **Retrosynthesis prediction with an iterative string editing model** | Nature Communications | [link](https://www.nature.com/articles/s41467-024-50617-1)  |
 | 14 | 2024.11 | **An automatic end-to-end chemical synthesis development platform powered by large language models** | Nature Communications | [link](https://www.nature.com/articles/s41467-024-54457-x)  |
+
+## Planner + PDDL
+|Index | Time | Title                                                        |  Publication  |                            Paper                             |
+| :--: | :--: | ------------------------------------------------------------ | :-----------: | :----------------------------------------------------------: |
+| 1 | 2023.04 | **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency** | Arxiv 2023 | [link](https://openreview.net/pdf?id=YXogl4uQUO)  |
+| 1 | 2023.09 | **Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning** | NIPS 2023 | [link](https://openreview.net/pdf?id=YXogl4uQUO)  |
 
 # Benchmark
 |Index | Time | Title                                                        |  Publication  |                            Paper                             |
